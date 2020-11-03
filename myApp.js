@@ -1,10 +1,3 @@
-var express = require('express');
-var app = express();
-
-var express = require('express');
-var app = express();
-var bodyParser = require('body-parser');
-
 var express = require("express");
 var app = express();
 
@@ -92,38 +85,3 @@ app.get('/:word/echo', (req, res)=> {
 //---------- DO NOT EDIT BELOW THIS LINE --------------------
 
 module.exports = app;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- module.exports = app;
